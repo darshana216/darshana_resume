@@ -1,0 +1,79 @@
+@media only screen and (max-width:360px){
+    .img_adjust{
+        width: 100%;
+    }
+    body{
+        font-size: 0.7rem;
+    }
+    /* .table_details{
+        font-size: 0.2rem;
+    } */
+    
+    /* .table_details{
+        font-size: 0rem;
+    } */
+    
+    /* .header{
+        font-size: 0.5rem;
+    } */
+}
+@media only screen and (max-width:320px){
+    .table_details{
+        font-size:0.2rem;
+    }
+    /* body{
+        font-size: 0.2rem;
+    }
+    .passport{
+        width: 20%;
+    }
+    .aboutself{
+        width: 20%;
+    } */
+}
+
+
+@media only screen and (max-width:550px){
+    .table_details{
+        font-size: 0.3rem;
+    }
+    tr th td{
+        padding: 0px;
+    }
+    th{
+        padding-bottom: 0px;
+    }
+    .passport{
+        width: 50%;
+    }
+    .aboutself{
+        width: 60%;
+        padding: 0px;
+        font-size: 0.5rem;
+    }
+    .img_adjust{
+        width: 50%;
+        height: 70%;
+    }
+    body{
+        font-size: 0.7rem;
+    }
+    .projectdes{
+        width: 23%;
+    }
+    .projectdes1{
+        padding-right: 5px;
+    }
+}
+
+@media only screen and (max-width:768px){
+    body{
+        font-size: 0.6rem;
+        font-weight:bold;
+    }
+}
+@media only screen and (min-width:1024px){
+    .projectdes{
+        width: 13%;
+    }
+}
